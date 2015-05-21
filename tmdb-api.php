@@ -28,6 +28,13 @@
  * @version 0.0.2.1
  * @author Alvaro Octal
  * @link {https://github.com/Alvaroctal/TMDB-PHP-API}
+ * 
+ * Add some function and documentation
+ * @Copyright TNS Wong Solo | https://github.com/tnsws/TMDB-PHP-API
+ * Licensed under BSD (http://www.opensource.org/licenses/bsd-license.php)
+ * @date 21/05/2015
+ * @author TNS Wong Solo
+ * @link {https://github.com/tnsws/TMDB-PHP-API}
  *
  * 	Function List
  *   	public function  __construct($apikey,$lang='en')
