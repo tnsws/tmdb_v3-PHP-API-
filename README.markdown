@@ -18,6 +18,10 @@ For using this library maybe you should take a look at the full [Documentation](
 Forked from a similar [project](https://github.com/glamorous/TMDb-PHP-API) by [Jonas De Smet](https://github.com/glamorous)
 
 ### CHANGE LOG ###
+  * [21/05/2015] v0.3 - Upgraded by
+	- Upgrade by  [/tnsws/TMDB-PHP-API](https://github.com/tnsws/TMDB-PHP-API).
+	- Added getDiscoverMovie(), topRatedMovies(), upcomingMovies()
+
   * [17/01/2015] v0.3 - Upgraded by
 	- Upgrade by  [/Alvaroctal/TMDB-PHP-API](https://github.com/Alvaroctal/TMDB-PHP-API).
 	- Some modifications and dedicated classes added.
